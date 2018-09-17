@@ -1,4 +1,4 @@
-# Sample Spring Boot Application a# 
+# Sample Spring Boot Application ab# 
 
 This sample Spring Boot application was written for a blog post describing how to create a Spring Boot application with IntelliJ.
 
